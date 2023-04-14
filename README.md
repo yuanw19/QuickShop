@@ -5,7 +5,7 @@ We are aiming for providing quicker shopping experience for customers
 
 ################################################################
 
-### Game Export
+### Game Export Folder
 
 This folder contains the exported shopping simulator
 
@@ -22,7 +22,7 @@ By left-clicking on item on the shelf, you can see the item name in the top-left
 
 ![image](/Image/3.png)
 
-### Quickshop
+### Quickshop Folder
 
 This folder consists of the front-end and back-end code for the shopping simulator
 
