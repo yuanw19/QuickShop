@@ -11,10 +11,10 @@ This folder contains the exported shopping simulator
 
 Try this out by downloading this folder and double click "Quickshop.exe"
 
-Manipulate the movement by pressing "W", "A", "S", "D" as front, back, left, and right.
-Hold "Shift" for crouching
+Manipulate the movement by pressing "W", "A", "S", "D" for front, back, left, and right, respectively.
+Hold "Shift" to crouch
 
-By left-click the item on the shelf, you are able to see the item name in the top-left corner of the screen
+By left-clicking on item on the shelf, you can see the item name in the top-left corner of the screen
 
 ![image](/Image/1.png)
 
@@ -26,9 +26,9 @@ By left-click the item on the shelf, you are able to see the item name in the to
 
 This folder consists of the front-end and back-end code for the shopping simulator
 
-It also contains specific route guidelines for users to quickly find their product at the store
+It also contains specific route guidelines for users to quickly find the items to purchase at the store
 
-1. Download "Quickshop" Folder inside your computer
+1. Download "Quickshop" folder onto your computer
 
 2. Run main.py
 
@@ -40,7 +40,7 @@ It also contains specific route guidelines for users to quickly find their produ
 
 Example of 2D route
 
-![image](/Image/4.png)
+![image](/Image/4.PNG)
 
 Example of 3D route
 
