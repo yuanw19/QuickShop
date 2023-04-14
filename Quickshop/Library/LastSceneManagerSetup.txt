@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/SupermarketInterior_v2.5/DemoScenes/Quickshop.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
